@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Javascript, Data analysis with Python**
 
-- 💬 Ask me about **Machine Learning JavaScript C++ Python PHP HTML CSS**
+- 💬 Ask me about **Machine Learning JavaScript C++ Python PHP **
 
 - 📫 How to reach me **nasirhussaintormik@gmail.com**
 
