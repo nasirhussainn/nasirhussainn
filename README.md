@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nasirhussaintormik@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
