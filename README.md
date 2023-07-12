@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasir Hussain</h1>
-<h2 align="center">BS CS | QAU'23 | AI/ML | Deep Learning (NLP) | Web Developer</h2>
+<h2 align="center">BS CS | QAU'24 | AI/ML | Deep Learning (NLP) | Web Developer</h2>
 <h3 align="center">I'm a BS Computer Science graduate from Quaid-i-Azam University, Islamabad. My professional skills include Web development and I'm also interested in Machine Learning and Deep Learning (NLP).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nasirhussainn&label=Profile%20views&color=0e75b6&style=flat" alt="nasirhussainn" /> </p>
@@ -7,6 +7,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=nasirhussainn&theme=onedark" alt="nasirhussainn" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/nn_asir" target="blank"><img src="https://img.shields.io/twitter/follow/nn_asir?logo=twitter&style=for-the-badge" alt="nn_asir" /></a> </p>
+
+
 
 - 🌱 I’m a **Computer Science** student.
 
@@ -24,6 +26,8 @@
     </td>
     <td align='center' width="190"><a href="https://instagram.com/nn_asir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-profile" height="30" width="40" /></a>
     </td>
+    <td align='center' width="190"><a href="https://medium.com/@nasirhussaintormik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="your-medium-profile" height="30" width="40" /></a>
+</td>
   </tr>
 </table>
 </p>
@@ -50,11 +54,6 @@
     <td align='center' width="190" height="20%">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" />
       </a>
     </td>
     <td align='center' width="190" height="20%">
@@ -131,11 +130,6 @@
     <td align='center' width="190" height="20%">
       <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-        <img src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="selenium" width="40" />
       </a>
     </td>
     <td align='center' width="190" height="20%">
