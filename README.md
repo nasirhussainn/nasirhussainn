@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasir Hussain</h1>
-<h2 align="center">BS CS | QAU'24 | AI/ML | Deep Learning (NLP) | Web Developer</h2>
+<h2 align="center">BS CS | QAU'24 | AI/ML | OpenCV | Web Developer</h2>
 <h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My professional skills include Web development and I'm also interested in Machine Learning and Deep Learning (NLP).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nasirhussainn&label=Profile%20views&color=0e75b6&style=flat" alt="nasirhussainn" /> </p>
