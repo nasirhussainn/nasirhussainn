@@ -156,7 +156,7 @@
 </table>
 </p>
 
-<p align="center"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasirhussainn&show_icons=true&theme=synthwave" alt="nasirhussainn" /></p>
+
 
 <p align="center"><img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=nasirhussainn&show_icons=true&theme=synthwave" alt="nasirhussainn" /></p>
 
