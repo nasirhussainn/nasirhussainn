@@ -1,165 +1,74 @@
-<h1 align="center">Hi 👋, I'm Nasir Hussain</h1>
-<h2 align="center">QAU'24 | CERN'24 | GDSC'24 | Software Engineer</h2>
-<h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My professional skills include Web development and I am also interested in Machine Learning and Computer Vision.</h3>
+# 👋 Hi, I'm Nasir Hussain
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nasirhussainn&label=Profile%20views&color=0e75b6&style=flat" alt="nasirhussainn" /> </p>
+**Computer Science Student | Web Developer | ML Enthusiast**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=nasirhussainn&theme=onedark" alt="nasirhussainn" /></a> </p>
+🎓 BS Computer Science @ Quaid-i-Azam University  
+🔬 CERN'24 | GDSC'24  
+🌱 Passionate about web development, machine learning, and computer vision
 
-<p align="center"> <a href="https://twitter.com/nn_asir" target="blank"><img src="https://img.shields.io/twitter/follow/nn_asir?logo=twitter&style=for-the-badge" alt="nn_asir" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=nasirhussainn&label=Profile%20views&color=0e75b6&style=flat)
 
+## 🤝 Connect with Me
 
+📧 **nasirhussaintormik@gmail.com**
 
-- 🌱 I’m a **Computer Science** student.
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nn_asir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nasir-hussainn)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15672549/nasir-hussain)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nn_asir)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nasirhussaintormik)
 
-- 📫 How to reach me: **nasirhussaintormik@gmail.com**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<table width="100">
-  <tr>
-    <td align='center' width="190"><a href="https://twitter.com/nn_asir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nn_asir" height="30" width="40" /></a>
-    </td>
-    <td align='center' width="190"><a href="https://linkedin.com/in/nasir-hussainn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-    </td>
-    <td align='center' width="190"><a href="https://stackoverflow.com/users/15672549/nasir-hussain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-profile" height="30" width="40" /></a>
-    </td>
-    <td align='center' width="190"><a href="https://instagram.com/nn_asir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-profile" height="30" width="40" /></a>
-    </td>
-    <td align='center' width="190"><a href="https://medium.com/@nasirhussaintormik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="your-medium-profile" height="30" width="40" /></a>
-</td>
-  </tr>
-</table>
-</p>
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<table width="100">
-  <tr>
-    <td align='center' width="190" height="20%">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.wordpress.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align='center' width="190" height="20%">
-      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas" width="40" />
-      </a>
-    </td>
-    <td align='center' width="190" height="20%">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-</p>
+**Web Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-<p align="center"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasirhussainn&show_icons=true&theme=synthwave" alt="nasirhussainn" /></p>
+**Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**Machine Learning & Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-<p align="center"><img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=nasirhussainn&show_icons=true&theme=synthwave" alt="nasirhussainn" /></p>
+## 📊 GitHub Stats
 
-<p align="center"><img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirhussainn&theme=synthwave" alt="nasirhussainn" /></p>
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasirhussainn&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasirhussainn&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasirhussainn&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🏆 Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nasirhussainn&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting! 😊</h3>
+  <p>Feel free to connect and collaborate on exciting projects!</p>
+</div>
