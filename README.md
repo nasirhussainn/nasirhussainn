@@ -18,7 +18,7 @@
 
 <br/>
 
-<img width="100%" src="./assets/coder-welcome.svg" alt="A roaming pixel engineer welcomes you and asks why you are here" />
+<img width="100%" src="./assets/coder-welcome.svg" alt="Animated pixel engineer welcoming you" />
 
 ```ts
 const nasir: SoftwareEngineer = {
