@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,50:0b2a59,100:2563eb&section=header" alt="" />
+<samp>~/nasirhussain</samp>
 
 <h1>Nasir Hussain</h1>
 
@@ -41,14 +41,12 @@ const nasir: SoftwareEngineer = {
 <br/>
 
 <a href="https://linkedin.com/in/nasir-hussainn"><img src="https://img.shields.io/badge/LinkedIn-06162f?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
-<a href="https://twitter.com/nn_asir"><img src="https://img.shields.io/badge/Twitter-06162f?style=for-the-badge&logo=x&logoColor=60a5fa" alt="Twitter" /></a>
-<a href="https://medium.com/@nasirhussaintormik"><img src="https://img.shields.io/badge/Medium-06162f?style=for-the-badge&logo=medium&logoColor=60a5fa" alt="Medium" /></a>
 <a href="mailto:nasirhussaintormik@gmail.com"><img src="https://img.shields.io/badge/Email-06162f?style=for-the-badge&logo=gmail&logoColor=60a5fa" alt="Email" /></a>
 
 <br/><br/>
 
-<samp>open to building things that matter.</samp>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:020617,50:0b2a59,100:2563eb&section=footer" alt="" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=460&lines=%24+thanks+for+stopping+by;%24+connection+open+%E2%80%94+let's+build+something" alt="Animated footer message" />
+</a>
 
 </div>
